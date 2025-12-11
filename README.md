@@ -24,5 +24,6 @@ Esta clase se encarga de gestionar la interacción con el usuario. Tiene método
 Función main():
 Al igual que en la programación tradicional, la función principal coordina el flujo del programa, pero en este caso interactúa con las clases creadas, utilizando objetos para gestionar las temperaturas y calcular el promedio.
 El uso de clases y objetos permite una mayor organización del código y facilita la expansión. Si en el futuro se quisiera agregar nuevas funcionalidades, como gestionar las temperaturas mensuales o recibir datos de un archivo, este enfoque modular haría que los cambios sean más fáciles de implementar. Además, la herencia y el polimorfismo permiten la reutilización de código, lo que reduce la redundancia y mejora la mantenibilidad.
-
+# Conclusión
+Ambos enfoques tienen sus ventajas y limitaciones, y la elección entre Programación Tradicional y POO depende del tamaño y complejidad del proyecto. Para proyectos pequeños o de corta duración, la Programación Tradicional es una opción rápida y eficiente. Sin embargo, cuando el proyecto crece o se requiere escalabilidad, POO se convierte en la opción ideal debido a su modularidad, reutilización y mantenimiento más fácil.
 
